@@ -1,4 +1,4 @@
-# Todo Application With Typescript\
+# Todo Application With Typescript
 
 Live Site: https://todo-application-daily.netlify.app/
 
