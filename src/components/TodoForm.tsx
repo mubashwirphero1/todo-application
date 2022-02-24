@@ -25,11 +25,11 @@ export const TodoForm: React.FC<TodoFormProps> = (props) => {
                 ref={ref}
                 type="text"
                 id="title"
-                placeholder="Enter case name"
+                placeholder="Enter item name"
                 onKeyPress={keyPressHandler}
             />
             <label htmlFor="title" className="active">
-            Enter case name
+            Enter item name
             </label>
         </div>
   );
