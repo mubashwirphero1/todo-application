@@ -1,7 +1,10 @@
 # Todo Application With Typescript
 
-Live Site: https://todo-application-daily.netlify.app/
+Live Site: https://todoapplication-beta.netlify.app/
 
 * This is simple Todo Application
-* Here You can add any item
-* You can also delete your item
+* Here You can add any person's name
+* You can also delete your name you have added
+
+
+*** Remember this is a beta version ***
